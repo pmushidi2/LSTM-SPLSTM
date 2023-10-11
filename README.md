@@ -1,4 +1,4 @@
-# LSTM-SPLSTM
+# LSTM-SP LSTM
 Unveiling the Future: A Comparative Analysis of LSTM and SP-LSTM for Network Traffic Prediction in 6G Networks
 
 Welcome to the repository for A Comparative Analysis of LSTM and SP-LSTM for Network Traffic Prediction in 6G Networks.
